@@ -2,7 +2,7 @@
 - 👀 I’m interested in java and javascript 
 - 🌱 I’m currently learning javascript CSS and html5
 - 💞️ I’m looking to collaborate on everything connected to development 
-- 📫 How to reach me you can find me on twitter: @tavihaagen
+- 📫 How to reach me you can find me on twitter: @tavihaagen and discord: Tavi#8177
 
 <!---
 Tavihaagen/Tavihaagen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
